@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there! 👋
 
+My name is José Vitor Gonçalves de Melo, and I'm from Brazil(BR). I'm currently working on learning more about JavaScript and other web technologies. I love the art of software development and everything that involves the process!
 <!--
 **Jose-Vitor-Melo/Jose-Vitor-Melo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
